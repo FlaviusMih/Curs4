@@ -1,0 +1,4 @@
+- Curs 1- HTML
+- Curs 2 - HTML + CSS
+- Curs 3 - Recapitulare + FlexBox
+- Curs 4 - Git & GitHub
