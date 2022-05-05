@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+background-color: aqua;
+}
+
+.title h1 {
+
+    flex: auto;
+    flex-direction: column;
+    text-decoration: burlywood;
+}
